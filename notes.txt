@@ -13,5 +13,6 @@
     DO STEPS 5 AND 6 AS MANY TIMES AS NEEDED
 
 7) we renamed the branch:  git branch -M main
-8) we did git push
+8) we did git push origin main -u
+
 
