@@ -1,0 +1,13 @@
+1) We open a terminal window.
+2) Get to the project folder there. You can do it by right clicking the folder and open with (terminal, git bash)
+ A) Right click the folder
+ B) write cd and drag the file to the terminal (check for quotation marks)
+ C) cd and typing the path. ./ => Looks down. ../ => Goes up one folder
+
+
+ FIRST LOCAL REPOSITORY
+3) git init
+4) git add .
+5) we checked the files to be added by using git status
+
+
