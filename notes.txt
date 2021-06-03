@@ -10,5 +10,8 @@
 4) git add .
 5) we checked the files to be added by using git status
 6) We create the commit git commit -m "some message"
+    DO STEPS 5 AND 6 AS MANY TIMES AS NEEDED
 
+7) we renamed the branch:  git branch -M main
+8) we did git push
 
