@@ -9,5 +9,6 @@
 3) git init
 4) git add .
 5) we checked the files to be added by using git status
+6) We create the commit git commit -m "some message"
 
 
